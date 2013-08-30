@@ -19,9 +19,33 @@
 				<string>#073642</string><!-- base02 -->
 				<key>lineHighlight</key>
 				<string>#073642</string><!-- base02 -->
+				<key>findHighlight</key>
+				<string>#073642</string><!-- base02 -->
 				<key>selection</key>
 				<string>#073642</string><!-- base02 -->
 			</dict>
+		</dict>
+		<dict>
+		    <key>name</key>
+		    <string>Block Cursor</string>
+		    <key>scope</key>
+		    <string>block_cursor</string>
+		    <key>settings</key>
+		    <dict>
+		        <key>background</key>
+		        <string>#215D6C</string>
+		    </dict>
+		</dict>
+		<dict>
+		    <key>name</key>
+		    <string>Invisible</string> 
+		    <key>scope</key>
+		    <string>invisible</string>
+		    <key>settings</key>
+		    <dict>
+		        <key>background</key>
+		        <string>#073642</string>
+		    </dict>
 		</dict>
 		<dict>
 			<key>name</key>
